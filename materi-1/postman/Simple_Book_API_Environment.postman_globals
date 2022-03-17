@@ -1,0 +1,19 @@
+{
+	"id": "5ea51cbf-ede6-4075-8974-74e2d3cab99b",
+	"values": [
+		{
+			"key": "orderId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "bookId",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"name": "My Workspace Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2022-03-04T06:32:12.618Z",
+	"_postman_exported_using": "Postman/8.12.5"
+}
